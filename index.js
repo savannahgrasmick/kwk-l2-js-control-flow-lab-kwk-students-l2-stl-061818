@@ -19,10 +19,10 @@ function ternaryCheckCity(area) {
 }
 
 
-function switchOnCharmFromTip(expression) {
-  case "generous";
-  return = "Thank you so much"
-}
+//function switchOnCharmFromTip(expression) {
+//  case "generous";
+//  return = "Thank you so much"
+//}
 
 
 
